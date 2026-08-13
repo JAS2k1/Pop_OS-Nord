@@ -11,6 +11,7 @@ brave-browser
 bsdutils
 btop
 ca-certificates
+cava
 code
 console-setup
 console-setup-linux
