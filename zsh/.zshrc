@@ -38,3 +38,5 @@ alias ff='fastfetch'
 source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=#4C566A'
 source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+alias weather='curl -s wttr.in/Stockholm'
+alias weather='curl -s wttr.in/Stockholm'
