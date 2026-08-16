@@ -1,0 +1,14 @@
+[general]
+framerate = 60
+bars = 0
+
+[output]
+method = ncurses
+
+[color]
+gradient = 1
+gradient_count = 4
+gradient_color_1 = '#5E81AC'
+gradient_color_2 = '#81A1C1'
+gradient_color_3 = '#88C0D0'
+gradient_color_4 = '#8FBCBB'
