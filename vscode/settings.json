@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Monokai Pro (Filter Octagon)",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "'Hack Nerd Font Mono', monospace",
+    "editor.fontSize": 14,
+    "terminal.integrated.fontFamily": "'Hack Nerd Font Mono'",
+    "editor.minimap.enabled": false,
+    "window.titleBarStyle": "custom"
+}
